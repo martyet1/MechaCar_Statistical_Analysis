@@ -24,4 +24,21 @@
                 maufacturing process
                 Manufacturing_Lot
                 
+                screenshots are in files in Github
+                
+ #### Study comparing Mechacar to the competition
+  metrics to test: actual mpg for comperaple modles
+    vehicle weights
+    engine type
+    body shape
+    tire sizes and types
+    preventive maintenance intervals
+    repair costs
+    vehicle purchase price
+    annual operating costs
+    
+  use linear regression models to analyze the affect each matric has on mpg and total operating costs
+  use two sample t-test to compare Mechacar data to competition data
+  use ANOVA to compare the data from all different tests
+                
                 
