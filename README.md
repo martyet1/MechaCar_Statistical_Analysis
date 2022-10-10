@@ -40,5 +40,15 @@
   use linear regression models to analyze the affect each matric has on mpg and total operating costs
   use two sample t-test to compare Mechacar data to competition data
   use ANOVA to compare the data from all different tests
+  
+  Null hypothesis is that there is no difference in Mechacar mpg and its competitors that is caused by vehicle design
+
+  Alternative hypothesis is that mpg is different due to vehicle design
+
+  The linear regression will show any effects that each feature (vehicle weight, engine type, etc.). 
+  The two-sample t-test will compare Mechacar data to its competitors.
+  The ANOVA will compare data from all tests.
+![image](https://user-images.githubusercontent.com/96960147/194952751-868f7f7e-8956-41c4-8963-ff8b984762c2.png)
+
                 
                 
