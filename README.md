@@ -24,6 +24,14 @@
                 maufacturing process
                 Manufacturing_Lot
                 
+  P-value comments:
+    The test for suspension reveals an overall p-value of .06028 which is greater than the significance level of .05. This means there is no statically significant effect on mpg.
+
+However, when broken down by lot, the p-values are as follows: lot 1 is 1, lot 2 is .6072, lot 3 is .04168. Lot 3 is inside the significance level and could be contributing to decreased mpg.
+
+![image](https://user-images.githubusercontent.com/96960147/194960753-3cc6b384-1344-4fee-881b-539dc7eacec0.png)
+
+                
                 screenshots are in files in Github
                 
  #### Study comparing Mechacar to the competition
